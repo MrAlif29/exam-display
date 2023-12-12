@@ -1,5 +1,18 @@
+.body {
+    background-color: white;
+    margin: 0;
+}
+
 *{
     box-sizing: border-box;
+    margin: 0;
+}
+.main {
+    display: block;
+    background-color: pink;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
 }
 
 .navbar {
@@ -96,6 +109,7 @@ h2{
 .display-c{
     background-color: gray;
 }
+
 
 h3 {
     margin: 0;
