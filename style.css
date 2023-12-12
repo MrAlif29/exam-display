@@ -96,3 +96,7 @@ h2{
 .display-c{
     background-color: gray;
 }
+
+h3 {
+    margin: 0;
+}
