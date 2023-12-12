@@ -80,3 +80,19 @@
 h2{
     margin: 0;
 }
+
+.view {
+    color: blue;
+}
+
+.comment {
+    color: red;
+}
+
+.date {
+    color: white;
+}
+
+.display-c{
+    background-color: gray;
+}
